@@ -1,0 +1,3 @@
+# Introduction 
+The purpose of the course ins to give to students insights in basics of AI,  its use, basics of software engineering of AI-based systems.
+The course addresses issues relevant for software engineering for systems that use artificial intelligence (AI) techniques such as machine learning or large-scale parallel data processing. The course gives a) an introduction of basic principles of AI, with emphasis on the principles and techniques used in machine learning (ML) and Deep Learning (DL) including supervised learning, unsupervised learning, enforcement learning , and b) insights to support needed for successful implementation of AI systems.
